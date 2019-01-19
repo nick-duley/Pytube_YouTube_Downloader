@@ -2,6 +2,7 @@
 Download videos from YouTube
 
 REQUIREMENTS
+
 A python IDE like IDLE, PyCharm etc.
 Python 3 installed
 install pytube by going to cmd and typing "pip install pytube" on Windows
